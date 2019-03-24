@@ -1,0 +1,16 @@
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\bin\Debug\gameclient.exe.config
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\bin\Debug\gameclient.exe
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\bin\Debug\gameclient.pdb
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.csprojAssemblyReference.cache
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\MainWindow.g.cs
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\App.g.cs
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient_Content.g.cs
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient_MarkupCompile.cache
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient_MarkupCompile.lref
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\MainWindow.baml
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.g.resources
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.Properties.Resources.resources
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.csproj.GenerateResource.cache
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.csproj.CoreCompileInputs.cache
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.exe
+C:\Users\Kings_23wjnex\source\repos\gameclient\gameclient\obj\Debug\gameclient.pdb
